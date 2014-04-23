@@ -11,5 +11,17 @@ namespace UnitTestProject1
         {
             Assert.IsFalse(false);
         }
+
+        [TestMethod]
+        public void PassingTest()
+        {
+            Assert.IsTrue(true);
+        }
+
+        [TestMethod]
+        public void FailingTest()
+        {
+            Assert.IsTrue(false);
+        }
     }
 }

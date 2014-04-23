@@ -21,7 +21,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void FailingTest()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
     }
 }

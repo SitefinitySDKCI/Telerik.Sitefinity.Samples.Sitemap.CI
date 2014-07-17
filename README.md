@@ -70,3 +70,5 @@ To login to Sitefinity backend, use the following credentials:
 ### Additional resources
 
 [Developers Guide](http://www.sitefinity.com/documentation/documentationarticles/developers-guide)
+
+rsthrt

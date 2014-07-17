@@ -16,9 +16,6 @@ Using the Sitemap sample, you can:
  
 * Sitefinity license
 * 
-
-* .NET Framework 4
-
 * Visual Studio 2012
 
 * Microsoft SQL Server 2008R2 or later versions

@@ -73,3 +73,4 @@ To login to Sitefinity backend, use the following credentials:
 
 
 Sabrie ...
+Another text ... :-)

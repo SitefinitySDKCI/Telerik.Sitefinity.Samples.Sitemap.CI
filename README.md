@@ -1,6 +1,8 @@
 Telerik.Sitefinity.Samples.Sitemap
 ==================================
 
+//   
+
 [![Build Status](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.Sitemap.test/badge/icon)](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.Sitemap.test/)
 
 The Sitemap sample project showcases how to create a sitemap module that generates a search engine-friendly **sitemap.xml** file for your site. This file is very useful for bigger sitemaps, for which search engines like Google can generate a sitemap. This sitemap appears in the search results. 

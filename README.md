@@ -1,7 +1,7 @@
 Telerik.Sitefinity.Samples.Sitemap
 ==================================
 
-//
+//   
 
 [![Build Status](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.Sitemap.test/badge/icon)](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.Sitemap.test/)
 

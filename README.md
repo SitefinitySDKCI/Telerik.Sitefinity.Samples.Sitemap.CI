@@ -7,7 +7,7 @@ The Sitemap sample project showcases how to create a sitemap module that generat
 
 This Sitemap sample module can creta this **sitemap.xml** file automatically for the sites you create with Sitefinity. As a result, you can enjoy the SEO benefits of letting search engines know about your site structure. The initial version of this module indexes all sitemap pages, as well as all _News_, _Events_, and _Blog Post_ content items. A custom configuration class stores the default pages for these content items, so that the individual detail page URLs can be included in the sitemap. 
 
-Using the Sitemap sample, you can:
+Using the Sitemap sample, you can: 
 
 * Generate a sitemap.xml file with URLs of all site pages and content items
 * Create a custom configuration class to persist module settings 

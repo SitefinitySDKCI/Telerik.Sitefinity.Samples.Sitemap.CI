@@ -12,10 +12,7 @@ Using the Sitemap sample, you can:
 * Generate a sitemap.xml file with URLs of all site pages and content items
 * Create a custom configuration class to persist module settings 
 
-### Requirements
- 
 
-### Prerequisites
 
 Clear the NuGet cache files. To do this:
 

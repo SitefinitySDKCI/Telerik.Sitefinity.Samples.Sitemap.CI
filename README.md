@@ -13,7 +13,7 @@ Using the Sitemap sample, you can:
 * Create a custom configuration class to persist module settings 
 
 ### Requirements
-
+ 
 * Sitefinity license
 * 
 
